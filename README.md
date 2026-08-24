@@ -1,7 +1,6 @@
 # ia-Industrial
 Estudo de Caso referente ao processo seletivo SENAI/PE – Cód. 164 (Pesquisador Industrial II, IA Industrial)
 
-[README (1).md](https://github.com/user-attachments/files/31389019/README.1.md)
 # Desafio IA Industrial — SENAI/PE Cód. 164 (Pesquisador Industrial II)
 
 Prova de conceito de monitoramento inteligente de motores elétricos rotativos a partir
@@ -30,8 +29,8 @@ reproduz apenas as citações diretamente referidas aqui.
 ```
 .
 ├── README.md
-├── requirements.txt
-└── motor_fault_monitoring_poc_v3.ipynb
+├── motor_fault_monitoring_poc_v3.ipynb
+└── requirements.txt
 ```
 
 Deliberadamente enxuto: como o notebook é autocontido (instala dependências, faz
